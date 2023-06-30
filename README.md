@@ -1,7 +1,4 @@
-# Image Reconstruction of Old Damaged Photos By LAtent Space Translation (Official PyTorch Implementation)
-
-Major Contribution: https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life
-
+# Image Reconstruction of Old Damaged Photos By LAtent Space Translation
 
 ## Installation
 
@@ -88,10 +85,6 @@ python detection.py --test_path [test_image_folder_path] \
 ### Global Restoration
 
 A triplet domain translation network is proposed to solve both structured degradation and unstructured degradation of old photos.
-
-<p align="center">
-<img src='imgs/pipeline.PNG' width="50%" height="50%"/>
-</p>
 
 ```
 cd Global/
