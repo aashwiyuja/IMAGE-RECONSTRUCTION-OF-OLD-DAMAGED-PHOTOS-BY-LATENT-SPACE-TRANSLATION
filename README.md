@@ -1,6 +1,6 @@
-# Old Photo Restoration (Official PyTorch Implementation)
+# Image Reconstruction of Old Damaged Photos By LAtent Space Translation (Official PyTorch Implementation)
 
-<img src='imgs/0001.jpg'/>
+Major Contribution.(https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
 
 ### [Project Page](http://raywzy.com/Old_Photo/) | [Paper (CVPR version)](https://arxiv.org/abs/2004.09484) | [Paper (Journal version)](https://arxiv.org/pdf/2009.07047v1.pdf) | [Pretrained Model](https://hkustconnect-my.sharepoint.com/:f:/g/personal/bzhangai_connect_ust_hk/Em0KnYOeSSxFtp4g_dhWdf0BdeT3tY12jIYJ6qvSf300cA?e=nXkJH2) | [Colab Demo](https://colab.research.google.com/drive/1NEm6AsybIiC5TwTU_4DqDkQO0nFRB-uA?usp=sharing)  | [Replicate Demo & Docker Image](https://replicate.ai/zhangmozhe/bringing-old-photos-back-to-life) :fire:
 
