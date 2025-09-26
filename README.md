@@ -3,6 +3,12 @@
 ## Problem Statement
 Old photographs often carry deep emotional and historical value, but many are damaged due to age, scratches, poor resolution, or environmental wear. Traditional restoration methods are manual, time-consuming, and require expert skills. This project aims to automate the restoration of old, damaged photos using deep learning techniques specifically latent space translation to recover both facial details and global image quality.
 
+## 🎥 Project Demo
+
+[![Watch the demo](https://img.youtube.com/vi/Q5bhszQq9eA/maxresdefault.jpg)](https://www.youtube.com/watch?v=Q5bhszQq9eA)
+
+> Click the thumbnail above to watch a walkthrough of the project: **Image Reconstruction of Old Damaged Photos by Latent Space Translation**
+
 ## Strategies Tried
 
 ### Core Components
